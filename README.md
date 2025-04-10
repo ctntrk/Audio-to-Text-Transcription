@@ -2,6 +2,15 @@
 
 This application is a web-based tool designed to convert audio content into text. Users can upload audio files or record live audio to transcribe them into text. The transcribed text can then be edited and downloaded in `.txt` or `.pdf` formats. 
 
+# Speech-to-Text Converter Demo
+
+# Speech-to-Text Converter Demo Introduction Video 1
+https://github.com/user-attachments/assets/28590010-453b-4234-9c99-045c5e500065
+
+# Speech-to-Text Converter Demo Introduction Video 2
+https://github.com/user-attachments/assets/141a2f83-35e9-4a12-a92d-73f9588e3d38
+
+
 ---
 
 ## Required Libraries 📚
