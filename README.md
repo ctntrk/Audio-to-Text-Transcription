@@ -10,6 +10,8 @@ https://github.com/user-attachments/assets/28590010-453b-4234-9c99-045c5e500065
 # Speech-to-Text Converter Demo Introduction Video 2
 https://github.com/user-attachments/assets/141a2f83-35e9-4a12-a92d-73f9588e3d38
 
+# Speech-to-Text Converter Demo Introduction Video 3
+https://github.com/user-attachments/assets/9d725dda-daa1-492c-be6c-c68ae85c1207
 
 ---
 
